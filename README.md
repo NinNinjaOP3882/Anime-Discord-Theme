@@ -1,6 +1,5 @@
 #screenshot
 ![] (http://i.imgur.com/nh9FfAo.jpg)
-![] (http://i.imgur.com/gci0TIl.png)
 # How to install
 1. Install [BetterDiscord](https://betterdiscord.net/home/)
 2. [Download and Unrar this Repositrory] (http://i.imgur.com/ZOxIVHu.png)
