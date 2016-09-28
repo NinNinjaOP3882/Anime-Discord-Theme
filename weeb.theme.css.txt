@@ -2088,4 +2088,27 @@ img.image {
 .account .btn-settings:after {
     opacity: .3;
 }
+/* put your custom css here. */
+
+div.guild-inner a[href="/channels/81384788765712384/81384788765712384"] {
+  background-image: url("https://cdn.discordapp.com/attachments/81384788765712384/229539027919831040/unknown.png") !important;
+}
+
+span.status-dnd + div.status-text {
+  visibility: hidden;
+}
+span.status-dnd + div.status-text::before {
+  visibility: visible;
+  content: "Stop pinging me you fucks.";
+}
+
+div.popout-menu-item:nth-child(4) > div.helper {
+  height: 24px;
+  visibility: hidden;
+}
+
+div.popout-menu-item:nth-child(4) > div.helper::before {
+  visibility: visible;
+  content: "Let me meme in peace, you digenerates."
+}
 }
