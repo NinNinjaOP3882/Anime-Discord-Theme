@@ -2109,7 +2109,7 @@ div.popout-menu-item:nth-child(4) > div.helper {
 
 div.popout-menu-item:nth-child(4) > div.helper::before {
   visibility: visible;
-  content: "Let me meme in peace, you digenerates."
+  content: "Let me meme in peace, you degenerates."
 }
 #app-mount > div > div.theme-dark > div > div > div:nth-child(5) > div.status-icon-text > div,
 #app-mount > div > div.theme-dark > div > div > div:nth-child(5) > div.helper {
