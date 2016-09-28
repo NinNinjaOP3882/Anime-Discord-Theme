@@ -1,4 +1,4 @@
-#screenshot
+#Screenshot
 ![] (http://i.imgur.com/nh9FfAo.jpg)
 # How to install
 1. Install [BetterDiscord](https://betterdiscord.net/home/)
