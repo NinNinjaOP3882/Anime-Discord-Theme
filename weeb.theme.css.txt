@@ -402,7 +402,7 @@
     border: 2px solid #8E8E8E;
 }
 .form .control-group .help-text {
-    color: #B6BBC1;
+    color: #f9fbfc;
 }
 .avatar-uploader a {
     color: #3DA9A9;
@@ -1196,7 +1196,7 @@ textarea {
     background: transparent !important;
 }
 .theme-dark .chat>.content .messages .message-group .comment .markup {
-    color: #fff;
+    color: #e6e6e6 !important;
 }
 .guild-channels ul .channel-text:hover:not(.unread):before {
     border-left: 4px solid #3DA9A9;
