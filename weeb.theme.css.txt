@@ -2111,4 +2111,17 @@ div.popout-menu-item:nth-child(4) > div.helper::before {
   visibility: visible;
   content: "Let me meme in peace, you digenerates."
 }
+#app-mount > div > div.theme-dark > div > div > div:nth-child(5) > div.status-icon-text > div::after {
+  content: "Stalker";
+  text-indent: 0;
+  display: block;
+  line-height: initial; /* New content takes up original line height */
+}
+
+#app-mount > div > div.theme-dark > div > div > div:nth-child(5) > div.helper::after {
+  content: "Makes you a ninja.";
+  text-indent: 0;
+  display: block;
+  line-height: initial; /* New content takes up original line height */
+}
 }
