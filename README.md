@@ -6,4 +6,4 @@
 5. [Open your discord user settings and add enable this theme] (http://i.imgur.com/HROYn2N.png)
 6. Enjoy your new theme.
 ![] (http://i.imgur.com/nh9FfAo.jpg)
-dicks
+
